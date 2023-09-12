@@ -1,0 +1,32 @@
+*{
+    margin:0
+    
+
+}
+.sidebar{
+    background-color: brown;
+    width: 20vw;
+
+}
+.sidebarnav{
+    padding: 72px;
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 33px 0;
+}
+
+.main{
+    background-color: blue;
+    width: 90vw;
+}
+.container
+{
+    display:flex;
+}
+.infocontainer{
+    background-color: blueviolet;
+    height: 45px;
+    width: 80vw;
+}
